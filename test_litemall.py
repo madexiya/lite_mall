@@ -3,7 +3,7 @@ import json
 import pytest
 import requests
 
-from log_utils import logger
+from utils.log_utils import logger
 
 
 class TestLiteMall:
